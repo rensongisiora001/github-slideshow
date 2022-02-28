@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am Renson And I love exploring different tech
 Use the left arrow to go back!
